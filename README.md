@@ -1,9 +1,9 @@
 # Voronoi_Treemap
 
-#### Introduction
+### Introduction
 Implementation of Voronoi Treemaps
 
-#### Instruction
+### Instruction
 - The generated result can refer to latest\_examples.
 - Folder data_gdp is GDP data for various countries.
 - Folder data_pop is populations data for countries.
