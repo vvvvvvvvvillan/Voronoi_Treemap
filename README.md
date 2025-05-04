@@ -8,5 +8,6 @@ Implementation of Voronoi Treemaps
 - Folder data_gdp is GDP data for various countries.
 - Folder data_pop is populations data for countries.
 
-You can use your own data to generate voronoi treemaps instead of using data_gdp or data_pop.
-Remember to change the data path or font path in voronoi_treemap_generator.py if you need.
+You can use your own data to generate voronoi treemaps instead of using data_gdp or data_pop. Pay attention to naming data files properly.
+
+Remember to change the data path or font path in voronoi_treemap_generator.py if need.
