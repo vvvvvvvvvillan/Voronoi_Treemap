@@ -4,7 +4,7 @@
 Implementation of Voronoi Treemaps referring to M. Balzer and O. Deussen, "Voronoi treemaps," IEEE Symposium on Information Visualization, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1532128.
 
 ### Instruction
-- The generated result can refer to latest\_examples.
+- The generated result can refer to latest\_examples (the day mode is better).
 - Folder data_gdp is GDP data for various countries.
 - Folder data_pop is populations data for countries.
 
