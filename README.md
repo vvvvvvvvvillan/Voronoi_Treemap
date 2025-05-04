@@ -1,5 +1,4 @@
 # Voronoi_Treemap
-Implementation of Voronoi Treemaps
 
 #### Introduction
 Implementation of Voronoi Treemaps
